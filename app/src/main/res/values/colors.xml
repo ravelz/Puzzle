@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+
+
+    <color name="primary">#EF1F3E</color>
+    <color name="primary_dark">#D00B26</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="accent">#D00B26</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PuzzleView">
+        <attr name="pv_enabled" format="boolean" />
+        <attr name="pv_borderColor" format="color" />
+        <attr name="pv_borderSize" format="integer" />
+    </declare-styleable>
+
+</resources>

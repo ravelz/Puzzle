@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game Puzzle Dis.Kominfo</string>
+    <string name="create_puzzle">Tidak ada puzzle ditemukan\n Pertama Buat Puzzle Lalu Mainkan</string>
+    <string name="home">Home</string>
+    <string name="create">Buat Puzzle</string>
+    <string name="play">Mainkan Puzzle</string>
+    <string name="exception">Kesalahan terjadi! Cobalah beberapa saat lagi.</string>
+    <string name="grid_size">Potongan (%d X %d)</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="password">Sandi</string>
+</resources>
